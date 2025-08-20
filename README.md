@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Ayushsham25
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C/C++ , DSA
+- FullStack Development
+- 🌱 I’m currently learning Java , DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [ ayush.sharma.work@gmail.com ]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 Ayushsham25/Ayushsham25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
